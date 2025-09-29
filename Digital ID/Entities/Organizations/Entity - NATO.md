@@ -4,7 +4,7 @@ entity-type: organization
 aliases: ["North Atlantic Treaty Organization", "Atlantic Alliance"]
 status: active
 parent-org: "International Alliance"
-location: "[[Entity - Brussels]], [[Entity - Belgium]]"
+location: [[[Entity - Brussels]], [[Entity - Belgium]]]
 founded: 1949-04-04
 industry: "Military Alliance"
 tags: [entity, entity/organization, nato, military, surveillance, bilderberg]
