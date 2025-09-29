@@ -36,3 +36,4 @@ The government launched mass enrollment to capture fingerprints, facial images, 
 *Analyst*: Craig
 *Status*: #status/corroborated
 
+

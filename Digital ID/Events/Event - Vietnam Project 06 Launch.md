@@ -31,3 +31,4 @@ tags: [event, vietnam, project-06, digital-transformation, biometric, 2022]
 *Analyst*: Craig
 *Status*: #status/corroborated
 
+

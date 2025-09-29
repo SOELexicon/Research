@@ -29,3 +29,4 @@ tags: [event, vietnam, protest, banking, digital-id, 2024]
 *Analyst*: Craig
 *Status*: #status/confirmed
 
+

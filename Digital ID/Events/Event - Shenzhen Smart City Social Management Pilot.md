@@ -31,3 +31,4 @@ tags: [event, china, shenzhen, smart-city, surveillance, 2017]
 *Analyst*: Craig
 *Status*: #status/corroborated
 
+

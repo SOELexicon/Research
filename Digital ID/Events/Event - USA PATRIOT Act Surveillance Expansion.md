@@ -27,3 +27,4 @@ tags: [event, united-states, patriot-act, surveillance, 2001]
 *Analyst*: Craig
 *Status*: #status/corroborated
 
+

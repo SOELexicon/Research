@@ -37,3 +37,4 @@ France Identité, France's mobile identity wallet linked to the national identit
 *Analyst*: Craig
 *Status*: #status/corroborated
 
+
