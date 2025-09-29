@@ -123,6 +123,5 @@ CEO of [[Entity - Microsoft Corporation]] AI division and co-founder of [[Entity
 
 ---
 *Created*: 2025-09-28
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig
 *Intelligence Classification*: Unclassified

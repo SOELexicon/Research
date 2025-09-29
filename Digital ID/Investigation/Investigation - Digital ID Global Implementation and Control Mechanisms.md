@@ -232,6 +232,5 @@ Despite "decentralized" branding, digital identity systems maintain centralized 
 
 ---
 *Investigation Started*: 2024-01-01
-*Last Updated*: 2024-12-28
 *Lead Analyst*: Craig
 *Status*: #investigation/active

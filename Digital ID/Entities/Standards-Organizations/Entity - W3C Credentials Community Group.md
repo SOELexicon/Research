@@ -141,5 +141,4 @@ Despite "decentralized" framing, maintains influence through:
 - [[W3C Community Group Charter]]
 
 ---
-*Last Updated*: 2024-12-28
 *Compiled by*: Craig

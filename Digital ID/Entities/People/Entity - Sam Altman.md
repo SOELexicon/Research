@@ -169,6 +169,5 @@ CEO of [[Entity - OpenAI]], Sam Altman represents the critical coordination poin
 
 ---
 *Created*: 2025-09-28
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig
 *Intelligence Classification*: Unclassified

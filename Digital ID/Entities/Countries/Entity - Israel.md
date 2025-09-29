@@ -121,5 +121,3 @@ The State of Israel is a parliamentary democracy located in the Middle East. Isr
 
 ---
 *Created*: 2024-09-28
-*Last Updated*: 2024-09-28
-*Compiled by*: Research Agent

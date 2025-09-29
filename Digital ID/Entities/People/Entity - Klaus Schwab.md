@@ -182,5 +182,4 @@ Founder and Executive Chairman of the World Economic Forum, architect of "Fourth
 - Media interviews and public appearances
 
 ---
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig

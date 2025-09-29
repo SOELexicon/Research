@@ -141,7 +141,3 @@ Senior executive at ID2020 Alliance and Chair of the World Economic Forum Digita
 - [[Event - WEF Reimagining Digital ID Report Publication]]
 - [[Source - WEF Reimagining Digital ID A Technical and Policy Analysis]]
 - [[Investigation - Digital ID Global Implementation and Control Mechanisms]]
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent

@@ -263,6 +263,5 @@ Democratic nations experiencing significant political opposition to CBDC impleme
 
 ---
 *Investigation Started*: 2025-01-15
-*Last Updated*: 2025-01-15
 *Lead Analyst*: Research Agent
 *Status*: #investigation/active

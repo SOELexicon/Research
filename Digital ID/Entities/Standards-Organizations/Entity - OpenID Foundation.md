@@ -133,7 +133,3 @@ Enterprise Identity Systems (Implementation)
 - [[Source - WEF Reimagining Digital ID A Technical and Policy Analysis]]
 - [[Entity - W3C Credentials Community Group]] - Standards collaboration
 - [[Entity - Trust Over IP Foundation]] - Protocol coordination
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent

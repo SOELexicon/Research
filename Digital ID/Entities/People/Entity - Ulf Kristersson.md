@@ -141,6 +141,5 @@ Prime Minister of [[Entity - Sweden]], Ulf Kristersson serves as the host and co
 
 ---
 *Created*: 2025-09-28
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig
 *Intelligence Classification*: Unclassified

@@ -201,7 +201,3 @@ International financial institution serving as the "central bank for central ban
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]
 - [[Entity - Project mBridge]] documentation and technical specifications
 - BIS official publications and Innovation Hub reports
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent

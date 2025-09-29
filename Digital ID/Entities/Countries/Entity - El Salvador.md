@@ -146,7 +146,3 @@ Central American republic implementing comprehensive biometric digital identity 
 - [[Investigation - Digital ID Global Implementation and Control Mechanisms]]
 - [[Finding - Biometric Security Vulnerability Systemic Failures]]
 - Biometric Update - El Salvador data breach reports
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent

@@ -171,6 +171,5 @@ Co-founder of [[Entity - Palantir Technologies]] and founder of Founders Fund, P
 
 ---
 *Created*: 2025-09-28
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig
 *Intelligence Classification*: Unclassified

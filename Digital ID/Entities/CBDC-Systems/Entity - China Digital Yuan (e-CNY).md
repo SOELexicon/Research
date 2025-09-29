@@ -186,7 +186,3 @@ China's Central Bank Digital Currency system representing the world's most advan
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]
 - [[Entity - China Social Credit System]] integration documentation
 - [[Finding - CBDC Technical Architecture as Surveillance Infrastructure]]
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent

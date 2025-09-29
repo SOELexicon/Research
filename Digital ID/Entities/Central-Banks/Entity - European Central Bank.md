@@ -190,7 +190,3 @@ Central bank of the Eurozone serving 20 European Union countries, leading the de
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]
 - ECB Digital Euro project documentation and policy papers
 - Pioneer Partner Trials announcement and technical specifications
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent

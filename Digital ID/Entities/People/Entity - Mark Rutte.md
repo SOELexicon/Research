@@ -121,6 +121,5 @@ Secretary General of [[Entity - NATO]], Mark Rutte represents the military and i
 
 ---
 *Created*: 2025-09-28
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig
 *Intelligence Classification*: Unclassified

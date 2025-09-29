@@ -104,5 +104,3 @@ Canada is a federal parliamentary democracy and constitutional monarchy spanning
 
 ---
 *Created*: 2024-09-28
-*Last Updated*: 2024-09-28
-*Compiled by*: Research Agent

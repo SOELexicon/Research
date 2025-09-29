@@ -161,5 +161,4 @@ Offers some mechanisms for countering centralized digital ID control:
 - [[Overcoming Human Harm Challenges in Digital Identity Ecosystems]]
 
 ---
-*Last Updated*: 2024-12-28
 *Compiled by*: Craig

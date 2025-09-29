@@ -155,7 +155,3 @@ Enterprise Applications (Business Logic)
 - [[Source - WEF Reimagining Digital ID A Technical and Policy Analysis]]
 - [[Entity - W3C Credentials Community Group]] - Standards implementation
 - [[Entity - Hyperledger Foundation]] - Parent organization information
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent

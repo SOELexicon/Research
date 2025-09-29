@@ -156,5 +156,4 @@ Technical work directly impacts global surveillance capabilities:
 - [[Source - Centre Technical Documentation]]
 
 ---
-*Last Updated*: 2024-12-28
 *Compiled by*: Craig

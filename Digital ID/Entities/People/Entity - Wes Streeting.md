@@ -141,6 +141,5 @@ tags: [entity, entity/person, bilderberg, uk-government, health-surveillance]
 
 ---
 *Created*: 2025-09-28
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig
 *Intelligence Classification*: Unclassified

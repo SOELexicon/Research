@@ -102,5 +102,3 @@ The United Kingdom of Great Britain and Northern Ireland is a sovereign country 
 
 ---
 *Created*: 2024-09-28
-*Last Updated*: 2024-09-28
-*Compiled by*: Research Agent

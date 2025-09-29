@@ -162,6 +162,5 @@ CEO and Co-founder of [[Entity - Google DeepMind]], Demis Hassabis is a leading 
 
 ---
 *Created*: 2025-09-28
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig
 *Intelligence Classification*: Unclassified

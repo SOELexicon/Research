@@ -160,7 +160,3 @@ Data aggregation company that experienced the largest data breach in recorded hi
 - [[Research - Digital ID Systems Global Intelligence Update 2024-2025 Developments]]
 - [[Finding - Biometric Security Vulnerability Systemic Failures]]
 - [[Investigation - Digital ID Global Implementation and Control Mechanisms]]
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent

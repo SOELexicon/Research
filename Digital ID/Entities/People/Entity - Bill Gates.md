@@ -151,5 +151,4 @@ Co-founder of Microsoft Corporation and co-chair of the Bill & Melinda Gates Fou
 - [[Entity - World Economic Forum]] participation records
 
 ---
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig

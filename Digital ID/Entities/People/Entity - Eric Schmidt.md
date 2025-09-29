@@ -182,6 +182,5 @@ Former CEO of [[Entity - Google]] and current Pentagon AI advisor, Eric Schmidt 
 
 ---
 *Created*: 2025-09-28
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig
 *Intelligence Classification*: Unclassified

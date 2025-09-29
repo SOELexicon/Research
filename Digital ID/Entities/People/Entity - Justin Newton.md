@@ -183,5 +183,4 @@ Policy work directly enables expanded surveillance capabilities:
 - [[WEF Digital ID Initiative Documentation]]
 
 ---
-*Last Updated*: 2024-12-28
 *Compiled by*: Craig

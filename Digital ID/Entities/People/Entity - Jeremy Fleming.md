@@ -156,6 +156,5 @@ Director of GCHQ (Government Communications Headquarters), Sir Jeremy Fleming re
 
 ---
 *Created*: 2025-09-28
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig
 *Intelligence Classification*: Unclassified

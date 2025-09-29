@@ -247,6 +247,5 @@ graph TD
 
 ---
 *Investigation Started*: 2024-12-28
-*Last Updated*: 2025-09-28
 *Lead Analyst*: Craig
 *Status*: #investigation/active

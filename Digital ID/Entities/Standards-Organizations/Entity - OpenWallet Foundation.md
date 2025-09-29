@@ -183,5 +183,4 @@ Wallet infrastructure creates new data collection opportunities:
 - [[Linux Foundation Project Announcement]]
 
 ---
-*Last Updated*: 2024-12-28
 *Compiled by*: Craig

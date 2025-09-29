@@ -204,6 +204,5 @@ Google represents the world's largest data collection and surveillance corporati
 
 ---
 *Created*: 2025-09-28
-*Last Updated*: 2025-09-28
 *Compiled by*: Craig
 *Intelligence Classification*: Unclassified

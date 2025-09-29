@@ -110,7 +110,3 @@ Enterprise Implementation (Business Logic)
 - [[Source - WEF Reimagining Digital ID A Technical and Policy Analysis]]
 - [[Entity - W3C Credentials Community Group]] - Collaboration documentation
 - [[Entity - Trust Over IP Foundation]] - Partnership information
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent

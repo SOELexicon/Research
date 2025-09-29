@@ -187,7 +187,3 @@ Historical context influencing current digital control systems:
 - [[Investigation - Digital ID Acceleration and Corporate Consolidation]]
 - Daily Maverick - High Court ruling coverage
 - Salzburg Global - Digital ID exclusion analysis
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent

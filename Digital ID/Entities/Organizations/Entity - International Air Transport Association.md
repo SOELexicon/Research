@@ -157,7 +157,3 @@ Global trade association representing 300 airlines handling 83% of global air tr
 - [[Event - IATA Travel Pass Decentralized ID Pilot Program]]
 - [[Source - WEF Reimagining Digital ID A Technical and Policy Analysis]]
 - IATA official publications and press releases
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent

@@ -79,5 +79,4 @@ Former UK Prime Minister (1997-2007) who has become the leading advocate for man
 - [[UK Parliament Digital ID Debates]]
 
 ---
-*Last Updated*: 2024-12-28
 *Compiled by*: Craig

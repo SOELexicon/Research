@@ -208,7 +208,3 @@ Multi-Central Bank Digital Currency platform spearheaded by the Bank for Interna
 - [[Entity - Bank for International Settlements]] technical documentation
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]
 - Project mBridge official reports and technical specifications
-
----
-*Last Updated*: 2025-01-15
-*Compiled by*: Research Agent
