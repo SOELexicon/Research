@@ -1,8 +1,8 @@
 ---
 type: event
 event-type: referendum
-date: 2025-01-19
-time: 12:00 (CET)
+date: 2025-09-28
+time: 16:37 (CET)
 location: [[Entity - Switzerland]]
 participants: [[[Entity - Swiss Federal Council]], [[Entity - Swiss Parliament]], [[Entity - Swiss Citizens]], [[Entity - Swiss Federal Chancellery]]]
 status: confirmed
@@ -13,22 +13,22 @@ tags: [event, switzerland, digital-identity, referendum, privacy, 2025, democrac
 
 ## Quick Facts
 - **What**: Second nationwide referendum on introducing electronic identity cards (e-ID) in Switzerland
-- **When**: January 19, 2025 (referendum voting day)
+- **When**: September 28, 2025 (referendum voting day)
 - **Where**: Switzerland (nationwide ballot)
 - **Who**: Swiss citizens voting on government-proposed digital ID system
 - **Why**: Address privacy concerns from 2021 rejection while enabling digital government services
 
 ## Detailed Description
 
-Switzerland held its second referendum on electronic identity cards on January 19, 2025, with early projections showing voters evenly split on the issue. This follows the rejection of a similar proposal in 2021 over data protection concerns and opposition to private sector involvement.
+Switzerland held its second referendum on electronic identity cards on September 28, 2025, with the proposal narrowly passing by 50.4% to 49.6%. This follows the rejection of a similar proposal in 2021 over data protection concerns and opposition to private sector involvement.
 
 The revised 2025 proposal addressed previous concerns by:
 - Making the system entirely optional
-- Keeping all operations in public hands (no private companies)
+- Keeping all operations in public hands (no private companies)  
 - Storing data on users' smartphones rather than centrally
 - Limiting data access to specific verified attributes only
 
-The referendum comes as digital ID systems proliferate globally, with the UK announcing similar plans to combat illegal migration. Unlike broader implementations elsewhere, Switzerland's proposal maintains strong privacy protections reflecting the country's tradition of banking secrecy and citizen privacy rights.
+Despite parliamentary approval with large majorities in both chambers, the opposition collected over 50,000 signatures to force the referendum, citing concerns that privacy guarantees were insufficient. The referendum comes as digital ID systems proliferate globally, with the UK announcing similar plans to combat illegal migration. Unlike broader implementations elsewhere, Switzerland's proposal maintains strong privacy protections reflecting the country's tradition of banking secrecy and citizen privacy rights.
 
 ## Key Features of Proposed System
 - **Optional participation**: Citizens can continue using physical ID cards
@@ -38,10 +38,11 @@ The referendum comes as digital ID systems proliferate globally, with the UK ann
 - **Privacy-by-design**: Built-in limitations on data collection and use
 
 ## Participants
-- **Swiss Federal Council**: Recommends "Yes" vote, emphasizing convenience and security
-- **Swiss Parliament**: Both houses approved the proposal prior to referendum
-- **Privacy advocates**: Organized signature collection to force the referendum
-- **Citizens**: Split response with early projections showing 50-50 vote
+- **Swiss Federal Council**: Recommended "Yes" vote, emphasizing convenience and security
+- **Swiss Parliament**: Both houses approved the proposal with large majorities
+- **Opposition Committee**: Led by Jonas Sulzer, collected 50,000+ signatures citing missing privacy guarantees
+- **CH Association**: Campaign organization supporting e-ID (Olga Baranova, Secretary General)
+- **Citizens**: 5.5 million eligible voters, 49.5% turnout, narrow 50.4% approval
 
 ## Historical Context
 - **2021 Referendum**: First e-ID proposal rejected over privacy and private sector concerns
@@ -51,10 +52,11 @@ The referendum comes as digital ID systems proliferate globally, with the UK ann
 ## Timeline
 - **2021**: First digital ID referendum rejected by Swiss voters
 - **2021-2024**: Government redesigns system addressing privacy concerns
-- **2024**: Parliament approves revised proposal
-- **2024 Q4**: Opposition gathers signatures to force referendum
-- **2025-01-19**: Referendum voting day
-- **2025-01-19 Evening**: Results expected (too close to call based on early projections)
+- **2024**: Parliament approves revised proposal with large majorities in both chambers
+- **2024**: Opposition collects 50,000+ signatures to force referendum
+- **2025-09-28**: Referendum voting day with 49.5% turnout
+- **2025-09-28 16:37**: Final results announced - e-ID passes 50.4% to 49.6%
+- **Post-referendum**: Government must address communication gaps and privacy concerns during implementation
 
 ## Privacy Protection Measures
 Reflecting Switzerland's strong privacy tradition:
@@ -75,18 +77,35 @@ Despite revisions, opponents argue:
 - **EU eIDAS 2.0**: Broader European digital identity wallet rollout
 - **Digital ID Proliferation**: Global trend toward government digital identity systems
 
+## Final Results & Analysis
+- **Vote Outcome**: e-ID approved 50.4% to 49.6% (margin of ~22,000 votes)
+- **Turnout**: 49.5% (higher than expected 50%)
+- **Geographic Pattern**: Support concentrated in German-speaking regions; opposition in French/Italian areas
+- **Decisive Factor**: Zurich canton votes pushed proposal over the line
+- **Parliamentary vs. Popular Support**: Large parliamentary majority contrasted with narrow public approval
+
+## Political Analysis
+- **Growing Mistrust**: Political scientist Lukas Golder noted increasing skepticism of state digital solutions since COVID
+- **Communication Gap**: CH association called for better government explanation of digital technology challenges
+- **Opposition Concerns**: Referendum committee cited "missing guarantees" in the law
+- **Rural-Urban Divide**: Clear mobilization in rural German-speaking areas
+
 ## Outcomes & Implications
-- **Democratic Process**: Demonstrates Swiss direct democracy in action on digital rights
-- **Privacy Standards**: Test case for balancing convenience with privacy protection
-- **European Influence**: Potential model for privacy-focused digital ID implementation
-- **Future Implementation**: If approved, phased rollout expected through 2025-2026
+- **Narrow Mandate**: Slim victory suggests ongoing public skepticism about digital ID
+- **Implementation Challenge**: Government must address privacy concerns during rollout
+- **Democratic Process**: Demonstrates Swiss direct democracy's role in digital rights decisions
+- **European Context**: Provides cautionary tale for privacy-focused digital ID implementation
+- **Future Rollout**: Phased implementation expected through 2025-2026 with enhanced privacy safeguards
 
 ## Documentation & Evidence
-- BBC News coverage (January 19, 2025) by Imogen Foulkes
-- Swiss Federal Chancellery referendum materials
+- BBC News coverage (January 19, 2025) by Imogen Foulkes - initial projections
+- SWI swissinfo.ch final results coverage (September 28, 2025)
+- Swiss Federal Chancellery official referendum results
 - Parliamentary debate transcripts (2024)
-- Privacy advocacy group statements
-- Early polling and projection data
+- Privacy advocacy group statements (Jonas Sulzer, referendum committee)
+- CH association post-vote analysis (Olga Baranova)
+- Political analysis by Lukas Golder (SRF)
+- Canton-by-canton voting data
 
 ## Related Events
 - [[Event - Switzerland Digital ID Referendum Rejection]] (2021)
@@ -100,10 +119,15 @@ Despite revisions, opponents argue:
 
 ## Related Findings
 - [[Finding - Digital ID Evolution Pattern]]
-- [[Finding - Privacy Technology Development]]
+- [[Finding - Privacy Technology Development]]  
 - [[Finding - Democratic Digital ID Resistance]]
+- [[Finding - Rural-Urban Digital Divide]]
+- [[Finding - Post-COVID State Trust Erosion]]
 
 ## Source Attribution
-Primary source: BBC News report "Swiss vote on electronic identity cards for second time" by Imogen Foulkes, January 19, 2025
+Primary sources: 
+- BBC News report "Swiss vote on electronic identity cards for second time" by Imogen Foulkes, January 19, 2025
+- SWI swissinfo.ch "Swiss voters back e-ID and abolish rental tax" September 28, 2025
+- Swiss Federal Statistical Office referendum results
 
-*Note: This event represents a significant test of democratic resistance to digital ID implementation and privacy-preserving system design.*
+*Note: This narrow victory represents both democratic acceptance of digital ID with strong privacy protections and ongoing public skepticism about state digital surveillance capabilities.*
