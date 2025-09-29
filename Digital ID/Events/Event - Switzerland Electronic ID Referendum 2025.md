@@ -28,7 +28,7 @@ The revised 2025 proposal addressed previous concerns by:
 - Storing data on users' smartphones rather than centrally
 - Limiting data access to specific verified attributes only
 
-Despite parliamentary approval with large majorities in both chambers, the opposition collected over 50,000 signatures to force the referendum, citing concerns that privacy guarantees were insufficient. The referendum comes as digital ID systems proliferate globally, with the UK announcing similar plans to combat illegal migration. Unlike broader implementations elsewhere, Switzerland's proposal maintains strong privacy protections reflecting the country's tradition of banking secrecy and citizen privacy rights.
+Despite parliamentary approval with large majorities in both chambers, the opposition collected over 50,000 signatures to force the referendum, citing concerns that privacy guarantees were insufficient. The referendum comes as digital ID systems proliferate globally, with the UK announcing mandatory digital ID for all workers just one day before the Swiss vote ([[Event - UK Digital ID Mandatory Work Requirement 2025]]). Unlike the UK's mandatory employment-based system, Switzerland's proposal maintains strong privacy protections and optional participation, reflecting the country's tradition of banking secrecy and citizen privacy rights.
 
 ## Key Features of Proposed System
 - **Optional participation**: Citizens can continue using physical ID cards
@@ -73,9 +73,10 @@ Despite revisions, opponents argue:
 - Precedent for future government data collection
 
 ## Global Context
-- **UK Digital ID**: Announced same week for immigration control purposes
-- **EU eIDAS 2.0**: Broader European digital identity wallet rollout
+- **UK Digital ID**: Mandatory work requirement announced day before Swiss vote ([[Event - UK Digital ID Mandatory Work Requirement 2025]])
+- **EU eIDAS 2.0**: Broader European digital identity wallet rollout ([[Event - EU Digital Identity Wallet Rollout]])
 - **Digital ID Proliferation**: Global trend toward government digital identity systems
+- **Contrasting Approaches**: Swiss optional privacy-focused system vs UK mandatory employment control
 
 ## Final Results & Analysis
 - **Vote Outcome**: e-ID approved 50.4% to 49.6% (margin of ~22,000 votes)
