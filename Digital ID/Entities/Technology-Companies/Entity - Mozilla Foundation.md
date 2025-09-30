@@ -128,7 +128,7 @@ Non-profit organization and maker of Firefox browser that led opposition to EU's
 
 ### Connections of Interest
 - Part of [[Finding - Legal Resistance Success Patterns 2024-2025]]
-- Opposes [[EU Digital Identity Framework]] surveillance capabilities
+- Opposes [[Entity - European Digital Identity Framework]] surveillance capabilities
 - Supports [[Finding - Privacy Technology Development]]
 
 ## Financial Information

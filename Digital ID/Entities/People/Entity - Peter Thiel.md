@@ -164,7 +164,7 @@ Co-founder of [[Entity - Palantir Technologies]] and founder of Founders Fund, P
 - [ ] What role in "Depopulation and Migration" technology discussions?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Source - Palantir CIA In-Q-Tel Investment Documentation]]
 - [[Source - Founders Fund Portfolio Analysis]]

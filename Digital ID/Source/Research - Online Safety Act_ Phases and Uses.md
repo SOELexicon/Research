@@ -1,5 +1,3 @@
-
-
 ---
 type: source
 source-type: report
@@ -11,6 +9,7 @@ url: internal-research
 access-date: 2025-09-28
 classification: U
 reliability: A
+investigation: "[[Investigation - UK Online Safety Act Digital Surveillance and Control Architecture]]"
 tags: [source, source/report, uk-online-safety-act, surveillance, censorship, age-verification, encryption, research]
 ---
 

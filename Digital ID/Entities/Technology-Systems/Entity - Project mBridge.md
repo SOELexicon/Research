@@ -204,7 +204,7 @@ Multi-Central Bank Digital Currency platform spearheaded by the Bank for Interna
 - [ ] Technical capabilities for blocking or monitoring specific transaction types
 
 ## Sources
-- [[Source - Research - CBDC Research_ Surveillance and Control]]
+- [[Research - CBDC Research_ Surveillance and Control]]
 - [[Entity - Bank for International Settlements]] technical documentation
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]
 - Project mBridge official reports and technical specifications

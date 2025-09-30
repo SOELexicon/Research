@@ -9,6 +9,7 @@ url: internal-research
 access-date: 2025-09-28
 classification: U
 reliability: A
+investigation: "[[Investigation - Digital ID Acceleration and Corporate Consolidation]]"
 tags:
   - source/report
   - digital-id
@@ -22,7 +23,7 @@ tags:
 
 ## Executive Summary
 
-The 2024-2025 period marks a critical acceleration in global digital identity infrastructure deployment, characterized by unprecedented corporate consolidation, mass exclusion events affecting hundreds of millions, successful legal resistance on encryption and privacy fronts, and systematic crisis exploitation mechanisms driving adoption. Total identified funding exceeds $35 billion, with major vulnerabilities exposing billions of records while resistance movements achieve historic mobilization levels.
+The 2024-2025 period marks a critical acceleration in global [[Entity - Digital Identity Systems]] infrastructure deployment, characterized by unprecedented corporate consolidation, mass exclusion events affecting hundreds of millions, successful legal resistance on encryption and privacy fronts, and systematic crisis exploitation mechanisms driving adoption. Total identified funding exceeds $35 billion, with major vulnerabilities exposing billions of records while resistance movements achieve historic mobilization levels.
 
 ## 1. EU Digital Identity Framework enters force with browser security controversy
 

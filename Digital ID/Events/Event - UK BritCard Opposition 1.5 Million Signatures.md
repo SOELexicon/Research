@@ -22,7 +22,7 @@ tags: [event, resistance-movement, uk-digital-id, petition, cross-party-oppositi
 https://petition.parliament.uk/petitions/730194.json
 
 ## Detailed Description
-The UK's opposition to the "BritCard" digital ID system garnered over 1.5 million petition signatures, representing the most successful digital ID resistance campaign globally. The campaign united cross-party political opposition including Conservative, Liberal Democrat, SNP, Green, and Labour rebels against mandatory implementation. Public polling revealed 63% of the British public expressing distrust in government data security, creating unprecedented political resistance to [[Entity - Tony Blair]]'s digital ID advocacy and Prime Minister Keir Starmer's employment-linked digital ID proposals.
+The UK's opposition to the "BritCard" [[Entity - Digital Identity Systems]] garnered over 1.5 million petition signatures, representing the most successful digital ID resistance campaign globally. The campaign united cross-party political opposition including Conservative, Liberal Democrat, SNP, Green, and Labour rebels against mandatory implementation. Public polling revealed 63% of the British public expressing distrust in government data security, creating unprecedented political resistance to [[Entity - Tony Blair]]'s digital ID advocacy and Prime Minister Keir Starmer's employment-linked digital ID proposals.
 
 ## Participants
 ### Opposition Coalition

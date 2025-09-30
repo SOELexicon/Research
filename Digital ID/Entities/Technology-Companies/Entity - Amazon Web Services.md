@@ -142,6 +142,27 @@ Cloud computing subsidiary of Amazon that secured up to $1 billion in government
 - Support for CBDC and digital currency infrastructure
 - Real-time data processing for surveillance applications
 
+## CBDC Infrastructure Services
+
+### AWS CBDC Cloud Solutions
+- **Aurora Database**: High-performance database for CBDC transaction ledgers
+- **Quantum Ledger Database (QLDB)**: Immutable transaction logging for central banks
+- **Cloud Infrastructure**: Scalable, resilient foundation for national CBDC systems
+- **Security Frameworks**: Enterprise-grade security for sensitive financial data
+
+### Central Bank Marketing and Engagement
+- **Direct Outreach**: Marketing cloud solutions specifically to central banks for CBDC hosting
+- **Architectural Guidance**: Providing technical consultation on CBDC infrastructure design
+- **Scalability Solutions**: Demonstrating capacity for national-scale payment processing
+- **Integration Services**: Connecting CBDC systems with existing banking infrastructure
+
+### CBDC Technical Architecture
+- **Database Layer**: Amazon Aurora for high-throughput CBDC transaction processing
+- **Immutable Ledger**: QLDB ensuring tamper-proof transaction records
+- **API Gateway**: Managing CBDC wallet and merchant integrations
+- **Analytics Platform**: Real-time transaction monitoring and surveillance capabilities
+- **Global Infrastructure**: Multi-region deployment for cross-border CBDC interoperability
+
 ## Sources
 - [[Research - Digital ID Systems Global Intelligence Update 2024-2025 Developments]]
 - AWS Annual Reports and SEC Filings

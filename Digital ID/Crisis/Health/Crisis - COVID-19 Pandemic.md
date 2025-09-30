@@ -37,6 +37,12 @@ The COVID-19 pandemic served as the most significant crisis exploitation event f
 - **Emergency Authorization**: Rapid technology deployment without normal safety and privacy review
 - **International Coordination**: Cross-border health pass recognition and data sharing
 
+### UK Civil Command Infrastructure
+- **[[Entity - Operation Talla]]**: National policing coordination framework establishing centralized information control
+- **[[Finding - Operation Talla Civil Command Prototype Crisis-Triggered Governance Model]]**: Civil command prototype for future crisis-triggered governance
+- **[[Finding - Operation Talla Centralized Information Control Architecture]]**: Systematic bypassing of democratic transparency mechanisms
+- **Democratic Bypass**: Health emergency justifying unprecedented surveillance and control expansion
+
 ### Technology Platform Expansion
 - **[[Entity - Microsoft Corporation]]**: Azure cloud services for health pass infrastructure
 - **[[Entity - Amazon Web Services]]**: Government cloud contracts for health data processing
@@ -48,6 +54,11 @@ The COVID-19 pandemic served as the most significant crisis exploitation event f
 ### Population Control Normalization
 - **Movement Restriction**: Digital health passes controlling population movement and assembly
 - **Service Access**: Essential services conditional on digital compliance and verification
+
+### Institutional Killing and Accountability Resistance
+- **[[Finding - Scottish COVID-19 Inquiry Evidence Systematic Elderly Mass Killing Through Policy]]**: Systematic elderly killing through neglect, starvation, and forged documentation
+- **[[Finding - UK Institutional Unwillingness COVID-19 Crimes Three-Tier Pattern]]**: Coordinated institutional protection preventing COVID-19 crime accountability
+- **[[Investigation - Operation Talla and COVID-19 Accountability Legal Resistance Campaign]]**: First systematic attempt at international accountability for COVID-19 policy crimes
 - **Behavioral Monitoring**: Health tracking systems enabling comprehensive behavioral surveillance
 - **Social Engineering**: Digital health requirements modifying population behavior and compliance
 

@@ -10,7 +10,7 @@ tags: [finding, analysis, evolution-pattern]
 # Finding: Digital ID Evolution Pattern
 
 ## Summary
-Digital identity deployments follow a recurring evolution: pilot (voluntary) → incentive-based adoption → mandatory integration → exclusionary enforcement → cross-sector expansion. This pattern demonstrates how systems initially marketed as optional quickly become prerequisites for essential services, aligning with corporate consolidation and surveillance goals.
+[[Entity - Digital Identity Systems]] deployments follow a recurring evolution: pilot (voluntary) → incentive-based adoption → mandatory integration → exclusionary enforcement → cross-sector expansion. This pattern demonstrates how systems initially marketed as optional quickly become prerequisites for essential services, aligning with corporate consolidation and surveillance goals.
 
 ## Supporting Evidence
 
@@ -64,6 +64,7 @@ Comparative analysis of timelines across India, EU, Vietnam, and Nigeria; desk r
 - [ ] Analyze private sector incentive programs (banks, telecoms).
 
 ---
+*Classification*: [[Classification - Pattern Analysis]]
 *Analysis Date*: 2025-09-28
 *Analyst*: Craig
 *Peer Review*: Pending

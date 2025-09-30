@@ -1,5 +1,20 @@
 
 
+---
+type: source
+source-type: report
+title: "The Architecture of Control: An Analysis of Central Bank Digital Currencies as a Tool for Financial Surveillance and Social Engineering"
+author: [[Entity - Craig - Research Analyst]]
+publisher: Independent Research
+publication-date: 2025-09-28
+url: internal-research
+access-date: 2025-09-28
+classification: U
+reliability: A
+investigation: "[[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]"
+tags: [source, source/report, cbdc, surveillance, financial-control, programmable-money, research]
+---
+
 # **The Architecture of Control: An Analysis of Central Bank Digital Currencies as a Tool for Financial Surveillance and Social Engineering**
 
 ## **I. Introduction: The Genesis of Programmable State Money**

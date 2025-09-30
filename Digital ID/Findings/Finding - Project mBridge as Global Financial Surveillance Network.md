@@ -15,22 +15,22 @@ Project mBridge operates as a comprehensive global financial surveillance networ
 ## Supporting Evidence
 
 ### Evidence Set 1: State-Level Surveillance Architecture
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: mBridge platform enables real-time peer-to-peer central bank settlement with pseudonymous addresses decryptable only by transacting commercial banks and respective central banks, creating closed loop of state-level surveillance
 - **Reliability**: A - Technical architecture documentation and BIS official specifications
 
 ### Evidence Set 2: Comprehensive Transaction Visibility
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: Every cross-border transaction instantly settled, recorded, and made transparent to relevant government authorities with 7-second settlement time eliminating intermediaries and creating direct central bank oversight
 - **Reliability**: A - Project mBridge technical documentation and operational specifications
 
 ### Evidence Set 3: Sanctions Evasion Utilization
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: Chinese regulators directing banks to utilize mBridge, documented usage by firms operating in Xinjiang to circumvent US sanctions, designed to bypass SWIFT and correspondent banking system
 - **Reliability**: A - Chinese regulatory directives and documented sanctions evasion cases
 
 ### Evidence Set 4: Strategic Geopolitical Membership
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: Participating countries include world's largest manufacturer (China) and major global energy producers (UAE, Saudi Arabia) in clear strategic move to facilitate de-dollarization of critical commodity and trade flows
 - **Reliability**: A - Official participant list and trade flow analysis
 
@@ -231,6 +231,7 @@ graph TB
 ```
 
 ---
+*Classification*: [[Classification - Geopolitical Intelligence]]
 *Analysis Date*: 2025-01-15
 *Analyst*: Research Agent
 *Verification Status*: #status/confirmed-operational

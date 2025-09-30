@@ -109,7 +109,7 @@ Technical analysis of CBDC implementations and testing programs, review of centr
 ## Connections
 - Enabled by [[Finding - Corporate Vendor Lock-in Architecture 2024-2025]] through infrastructure control
 - Demonstrates capabilities warned about in [[Entity - Mozilla Foundation]] browser security analysis
-- Integrates with [[EU Digital Identity Framework]] surveillance infrastructure
+- Integrates with [[Entity - European Digital Identity Framework]] surveillance infrastructure
 - Part of [[Investigation - Digital ID Global Implementation and Control Mechanisms]]
 
 ## Technical Implementation Analysis

@@ -1,13 +1,25 @@
 ---
 type: entity
 entity-type: organization
-aliases: ["eIDAS 2.0", "EU Digital Identity Wallet", "EUDI Wallet", "European Digital Identity"]
+aliases:
+  - eIDAS 2.0
+  - EU Digital Identity Wallet
+  - EUDI Wallet
+  - European Digital Identity
 status: active
 parent-org: "[[European Union]]"
 location: "[[Brussels, Belgium]]"
 founded: 2024-05-20
-industry: "Digital Identity Infrastructure"
-tags: [entity, entity/organization, digital-id, european-union, eidas, mandatory-identity, surveillance, 2024-2025]
+industry: Digital Identity Infrastructure
+tags:
+  - entity
+  - entity/organization
+  - digital-id
+  - european-union
+  - eidas
+  - mandatory-identity
+  - surveillance
+  - 2024-2025
 ---
 
 # Entity - European Digital Identity Framework

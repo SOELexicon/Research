@@ -110,7 +110,7 @@ The meeting assembled an extraordinary concentration of digital control infrastr
 - **Corporate Attendance**: Technology CEO participation confirmed through investigative reporting
 
 ### Investigative Analysis
-- **[[Source - Research - The Bilderberg 2025 Meeting]]**: Primary investigative analysis
+- **[[Research - The Bilderberg 2025 Meeting]]**: Primary investigative analysis
 - **Journalist Coverage**: [[Entity - Charlie Skelton]] reporting on China competition narrative
 - **Government Confirmation**: Official department confirmation of government representative attendance
 - **Corporate Coordination**: Technology CEO participation in population control discussions

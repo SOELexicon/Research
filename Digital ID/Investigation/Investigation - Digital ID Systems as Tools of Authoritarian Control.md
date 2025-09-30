@@ -1,13 +1,19 @@
 ---
-type: MOC
-investigation: "Digital ID Systems as Tools of Authoritarian Control"
-tags: [MOC, investigation, digital-id, authoritarian-control, surveillance, population-control, mass-exclusion]
+type: investigation
+investigation-type: authoritarian-control-analysis
+status: active
+priority: high
+classification: intelligence
+lead-analyst: Research Agent
+start-date: 2024
+research-status: "Not Yet Researched"
+tags: [investigation, digital-id, authoritarian-control, surveillance, population-control, mass-exclusion]
 ---
 
 # Investigation: Digital ID Systems as Tools of Authoritarian Control
 
 ## Overview
-Comprehensive investigation documenting how mandatory digital ID systems have enabled unprecedented population control mechanisms globally, including 86 million frozen bank accounts in Vietnam, 73 million disconnected phone lines in Nigeria, and 57+ starvation deaths in India linked to biometric failures.
+Comprehensive investigation documenting how mandatory [[Entity - Digital Identity Systems]] have enabled unprecedented population control mechanisms globally, including 86 million frozen bank accounts in Vietnam, 73 million disconnected phone lines in Nigeria, and 57+ starvation deaths in India linked to biometric failures.
 
 ## Key Entities
 

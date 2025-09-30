@@ -101,7 +101,7 @@ This breach represents a watershed moment demonstrating the catastrophic risks o
 ### Connections of Interest
 - Supports [[Finding - Biometric Security Vulnerability Systemic Failures]]
 - Demonstrates risks warned about in [[Entity - Mozilla Foundation]] security analysis
-- Validates concerns about [[EU Digital Identity Framework]] centralized storage
+- Validates concerns about [[Entity - European Digital Identity Framework]] centralized storage
 - Part of pattern in [[Finding - Corporate Vendor Lock-in Architecture 2024-2025]]
 
 ## Related Events

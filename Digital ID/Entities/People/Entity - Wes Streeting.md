@@ -134,7 +134,7 @@ tags: [entity, entity/person, bilderberg, uk-government, health-surveillance]
 - [ ] How does health surveillance support "Depopulation and Migration" policy development?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Entity - United Kingdom]]
 - [[Source - UK Health Department Bilderberg Participation Confirmation]]

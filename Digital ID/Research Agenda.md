@@ -1,3 +1,12 @@
+---
+type: research-agenda
+title: "Digital ID Research Priority Matrix"
+status: ongoing
+investigation: "Not Yet Researched"
+tags: [research-agenda, digital-id, priorities]
+updated: 2025-09-28
+---
+
 # Digital ID Research Priority Matrix
 
 ## Immediate High-Priority Investigations

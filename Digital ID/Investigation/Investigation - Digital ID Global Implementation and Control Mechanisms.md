@@ -1,13 +1,19 @@
 ---
-type: MOC
-investigation: "Digital ID Systems as Control Mechanisms"
-tags: [MOC, investigation, digital-id, surveillance, authoritarian-control, 2024-2025, corporate-consolidation, resistance-movement]
+type: investigation
+investigation-type: global-implementation-analysis
+status: active
+priority: high
+classification: intelligence
+lead-analyst: Research Agent
+start-date: 2024
+research-status: "Not Yet Researched"
+tags: [investigation, digital-id, surveillance, authoritarian-control, 2024-2025, corporate-consolidation, resistance-movement]
 ---
 
 # Investigation: Digital ID Global Implementation and Control Mechanisms
 
 ## Overview
-Comprehensive investigation into how mandatory digital ID systems are being implemented globally as tools for population control, financial exclusion, and authoritarian surveillance.
+Comprehensive investigation into how mandatory [[Entity - Digital Identity Systems]] are being implemented globally as tools for population control, financial exclusion, and authoritarian surveillance.
 
 ## Key Entities
 

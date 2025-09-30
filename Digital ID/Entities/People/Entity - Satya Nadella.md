@@ -109,7 +109,7 @@ CEO and Chairman of [[Entity - Microsoft Corporation]], Satya Nadella is a centr
 - [ ] How does Microsoft digital wallet technology support population control?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Source - Microsoft OneGov Contract Documentation]]
 - [[Source - Bank for International Settlements CBDC-Digital ID Integration]]

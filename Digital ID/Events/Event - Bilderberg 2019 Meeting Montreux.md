@@ -140,7 +140,7 @@ This meeting established the critical pattern of Bilderberg coordination precedi
 - **Coordination Effectiveness**: Elite coordination enabling rapid surveillance implementation
 
 ## Verification Status
-- **Primary Source**: [[Source - Research - The Bilderberg 2025 Meeting]] historical analysis
+- **Primary Source**: [[Research - The Bilderberg 2025 Meeting]] historical analysis
 - **Implementation Confirmation**: COVID-19 surveillance deployment confirming 2019 coordination
 - **Pattern Recognition**: 12-24 month coordination-to-implementation timeline established
 - **Intelligence Confirmation**: GCHQ Director participation confirming government surveillance coordination

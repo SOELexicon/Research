@@ -197,7 +197,7 @@ International financial institution serving as the "central bank for central ban
 - [ ] Democratic oversight mechanisms and accountability for BIS CBDC coordination activities
 
 ## Sources
-- [[Source - Research - CBDC Research_ Surveillance and Control]]
+- [[Research - CBDC Research_ Surveillance and Control]]
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]
 - [[Entity - Project mBridge]] documentation and technical specifications
 - BIS official publications and Innovation Hub reports

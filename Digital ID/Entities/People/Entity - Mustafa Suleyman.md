@@ -116,7 +116,7 @@ CEO of [[Entity - Microsoft Corporation]] AI division and co-founder of [[Entity
 - **2025**: [[Event - Bilderberg 2025 Meeting Stockholm]] AI population control coordination
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Entity - Microsoft Corporation]]
 - [[Source - Microsoft AI Government Integration Analysis]]

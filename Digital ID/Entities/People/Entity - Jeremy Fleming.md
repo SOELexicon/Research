@@ -149,7 +149,7 @@ Director of GCHQ (Government Communications Headquarters), Sir Jeremy Fleming re
 - [ ] How does intelligence surveillance support population control and demographic management?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Event - Bilderberg 2019 Meeting Montreux]]
 - [[Entity - GCHQ]]

@@ -1,13 +1,19 @@
 ---
-type: MOC
-investigation: "2024-2025 Digital ID Acceleration and Corporate Consolidation"
-tags: [MOC, investigation, digital-id, 2024-2025, corporate-consolidation, surveillance, resistance-movement]
+type: investigation
+investigation-type: corporate-consolidation-analysis
+status: active
+priority: high
+classification: intelligence
+lead-analyst: Research Agent
+start-date: 2024
+research-status: "Not Yet Researched"
+tags: [investigation, digital-id, 2024-2025, corporate-consolidation, surveillance, resistance-movement]
 ---
 
 # Investigation: 2024-2025 Digital ID Acceleration and Corporate Consolidation
 
 ## Overview
-The 2024-2025 period represents a critical inflection point in global digital identity infrastructure deployment, characterized by unprecedented corporate consolidation, mass exclusion events affecting hundreds of millions, and systematic crisis exploitation mechanisms driving $35+ billion in funding while resistance movements achieve historic mobilization levels.
+The 2024-2025 period represents a critical inflection point in global [[Entity - Digital Identity Systems]] infrastructure deployment, characterized by unprecedented corporate consolidation, mass exclusion events affecting hundreds of millions, and systematic crisis exploitation mechanisms driving $35+ billion in funding while resistance movements achieve historic mobilization levels. In the UK, FOI evidence indicates stakeholder access asymmetry during framework design, with DSIT facilitating direct input from Sex Matters to the cross‑government **Domain Expert Group on the Person Entity**, while other stakeholders (e.g., Trans Actual) were not afforded equivalent access ([[Source - DSIT Sex Matters Lobbying FOI 2024-2025]]; internal: [[Digital ID/Attachments/Attachment - foi_documents_complete_summary_updated.md]]).
 
 ## Key Entities
 

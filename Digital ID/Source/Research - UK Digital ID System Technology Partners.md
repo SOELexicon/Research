@@ -9,6 +9,7 @@ url: internal-research
 access-date: 2025-09-28
 classification: U
 reliability: A
+investigation: "[[Investigation - Digital ID Global Implementation and Control Mechanisms]]"
 tags: [source, source/report, uk-digital-id, technology-partners, government-contracts, surveillance-infrastructure, research]
 ---
 
@@ -40,7 +41,7 @@ The delivery and governance of the UK's digital identity ecosystem are distribut
 * **Office for Digital Identities and Attributes (OfDIA):** Established within DSIT, OfDIA is the dedicated regulatory body for the private digital identity market.6 Its primary function is to oversee and maintain the UK Digital Identity and Attributes Trust Framework (DIATF), which sets the rules and standards that private providers must meet to become certified.15  
 * **Cabinet Office & Home Office:** The political impetus for the "BritCard" initiative originates from the Prime Minister's office and aligns with core Home Office objectives related to immigration enforcement and border security.1 Cabinet Office ministers have also framed the digital ID system as the "bedrock of the modern state," enabling future public service reform.19
 
-This distributed structure separates technical delivery (GDS) from market regulation (OfDIA) and broader policy (DSIT), while the political direction is set by the centre of government.
+This distributed structure separates technical delivery (GDS) from market regulation (OfDIA) and broader policy (DSIT), while the political direction is set by the centre of government. FOI reporting indicates DSIT has convened a cross‑government **Domain Expert Group on the Person Entity** covering departments including ONS, HMRC, Home Office, DWP, ODIA, MHCLG and the Police Digital Service, and has provided routes for external representations to influence data standards ([[Source - DSIT Sex Matters Lobbying FOI 2024-2025]]; internal: [[Digital ID/Attachments/Attachment - foi_documents_complete_summary_updated.md]]).
 
 ### **1.3 Historical Context: Lessons from the Failure of GOV.UK Verify**
 

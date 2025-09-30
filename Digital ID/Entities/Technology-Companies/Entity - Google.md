@@ -196,7 +196,7 @@ Google represents the world's largest data collection and surveillance corporati
 - [ ] How does Google surveillance technology enable preemptive population control?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Entity - Eric Schmidt]]
 - [[Entity - Demis Hassabis]]

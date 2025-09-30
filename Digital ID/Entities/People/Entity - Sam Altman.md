@@ -162,7 +162,7 @@ CEO of [[Entity - OpenAI]], Sam Altman represents the critical coordination poin
 - [ ] How do AI regulation frameworks enable government surveillance applications?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Event - Bilderberg 2023 Meeting Lisbon]]
 - [[Entity - OpenAI]]

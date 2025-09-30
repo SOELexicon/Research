@@ -1,7 +1,13 @@
 ---
-type: MOC
-investigation: "CBDC Programmable Money and Financial Surveillance Infrastructure"
-tags: [MOC, investigation, CBDC, programmable-money, financial-surveillance, central-banking, corporate-state-partnerships, 2024-2025]
+type: investigation
+investigation-type: financial-surveillance-analysis
+status: active
+priority: high
+classification: intelligence
+lead-analyst: Research Agent
+start-date: 2024
+research-status: "Not Yet Researched"
+tags: [investigation, CBDC, programmable-money, financial-surveillance, central-banking, corporate-state-partnerships, 2024-2025]
 ---
 
 # Investigation: CBDC Programmable Money and Financial Surveillance Infrastructure
@@ -234,7 +240,7 @@ Democratic nations experiencing significant political opposition to CBDC impleme
 ## Sources
 
 ### Primary Research
-- [[Source - Research - CBDC Research_ Surveillance and Control]]
+- [[Research - CBDC Research_ Surveillance and Control]]
 - [[Source - BIS Innovation Hub Reports]]
 - [[Source - Project mBridge Technical Documentation]]
 - [[Source - China Digital Yuan Implementation Studies]]

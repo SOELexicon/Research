@@ -21,6 +21,8 @@ tags: [event, european-union, eidas, digital-identity, wallet, 2024]
 ## Detailed Description
 After eIDAS 2.0 entered into force on 20 May 2024, the European Commission funded Large Scale Pilots (LSPs) to test EUDI Wallet use cases. Consortia such as NOBID (Nordic-Baltic), POTENTIAL, DC4EU, and EWC engaged telecoms, banks, and universities to issue digital credentials (driving licenses, diplomas, bank accounts, SIM registration). By September 2024, Germany, Spain, France, and Israel (associated partner) issued first pilot wallets to citizens, enabling cross-border authentication through ETSI standards.
 
+The EU rollout represents a coordinated approach across **350+ companies and public authorities across 26 member states** plus Norway, Iceland, and Ukraine, making it one of the largest digital identity pilot programs globally.
+
 Key features:
 - Wallet apps compliant with ETSI TS 119 495 and ARF (Architecture and Reference Framework).
 - Support for verifiable credentials (W3C VC), electronic attestations of attributes (EAAs), and qualified electronic signatures.
@@ -30,10 +32,17 @@ Key features:
 - **European Commission DG CONNECT**: Program coordination and funding (~€46 million via DIGITAL Europe).
 - **Member State Agencies**: Germany's Federal Agency for Secure Information Technology (BSI), Spain's Ministry of Economic Affairs and Digital Transformation, France's ANTS, Italy's PagoPA.
 - **Private Sector**: Thales, Atos, IDEMIA, iProov, Signicat, and telecom operators.
+- **Scale**: Over 350 companies and public authorities across 26 member states plus Norway, Iceland, and Ukraine participating in pilots.
+
+## EU Physical ID Context
+- **Current Status**: 25 of 27 EU member states use standard machine-readable physical ID cards (introduced 2021)
+- **Exceptions**: [[Entity - Denmark]] (uses digital MitID app exclusively), [[Entity - Ireland]] (issues passport cards)
+- **Schengen Integration**: Physical cards enable travel within passport-free Schengen zone
+- **Digital Transition**: EUDI Wallet designed to complement and eventually replace physical systems
 
 ## Timeline
 - **2024-05**: eIDAS 2.0 enters force (see [[Event - EU eIDAS 2.0 Regulation Entry into Force]]).
-- **2024-09**: Pilot wallet apps launched in Germany (BundID app update), Spain (MiCarpeta Ciudadana), France (France Identité advanced pilot), and Ukraine (Diia integration partnership).
+- **2024-09**: Pilot wallet apps launched in Germany (BundID app update), Spain (MiCarpeta Ciudadana), France (France Identité advanced pilot - combining identity card, driving licence, and vehicle registration), and Ukraine (Diia integration partnership).
 - **2025**: Additional pilots for healthcare, payments, and diploma credentials; evaluation reports due Q4 2025.
 - **2026**: Mandatory wallet availability deadline for Member States.
 
@@ -47,6 +56,7 @@ Key features:
 - European Commission press releases (September 2024) on EUDI pilots.
 - ETSI technical specifications (TS 119 495) and ARF documentation.
 - Pilot consortium reports (NOBID, POTENTIAL, DC4EU).
+- Sky News analysis of global digital ID systems (September 2025).
 - Media coverage: Politico EU, Euractiv, Financial Times.
 
 ## Significance

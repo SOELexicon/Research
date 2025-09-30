@@ -186,7 +186,7 @@ Central bank of the Eurozone serving 20 European Union countries, leading the de
 - [ ] Public resistance strategies and democratic oversight mechanisms
 
 ## Sources
-- [[Source - Research - CBDC Research_ Surveillance and Control]]
+- [[Research - CBDC Research_ Surveillance and Control]]
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]
 - ECB Digital Euro project documentation and policy papers
 - Pioneer Partner Trials announcement and technical specifications

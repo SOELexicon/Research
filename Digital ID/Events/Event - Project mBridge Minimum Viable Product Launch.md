@@ -172,7 +172,7 @@ The platform's achievement of operational status demonstrates the feasibility of
 - [ ] Technical countermeasures being developed by Western intelligence and financial authorities
 
 ## Sources
-- [[Source - Research - CBDC Research_ Surveillance and Control]]
+- [[Research - CBDC Research_ Surveillance and Control]]
 - [[Entity - Bank for International Settlements]] official reports and documentation
 - [[Entity - Project mBridge]] technical specifications and operational reports
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]

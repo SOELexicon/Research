@@ -169,7 +169,7 @@ The milestone represents not merely a technical achievement in digital payment p
 - [ ] Technical countermeasures being developed by Western intelligence and financial authorities
 
 ## Sources
-- [[Source - Research - CBDC Research_ Surveillance and Control]]
+- [[Research - CBDC Research_ Surveillance and Control]]
 - [[Entity - China Digital Yuan (e-CNY)]] system documentation
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]
 - [[Entity - People's Bank of China]] official transaction volume reports

@@ -142,7 +142,7 @@ CEO of [[Entity - Palantir Technologies]], Alex Karp is a central architect of g
 - [ ] How do Pentagon contracts support population control mechanisms?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Source - Palantir Pentagon Contracts Documentation]]
 - [[Source - UK NHS Palantir Contract Analysis]]

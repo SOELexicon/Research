@@ -1,7 +1,13 @@
 ---
-type: MOC
-investigation: "Bilderberg Coordination of Global Digital Control Infrastructure"
-tags: [MOC, investigation, bilderberg, digital-id, surveillance, population-control, corporate-government-fusion, elite-coordination]
+type: investigation
+investigation-type: elite-coordination-analysis
+status: active
+priority: high
+classification: intelligence
+lead-analyst: Research Agent
+start-date: 2024
+research-status: "Not Yet Researched"
+tags: [investigation, bilderberg, digital-id, surveillance, population-control, corporate-government-fusion, elite-coordination]
 ---
 
 # Investigation: Bilderberg Coordination of Global Digital Control Infrastructure
@@ -223,7 +229,7 @@ graph TB
 ## Sources
 
 ### Primary
-- [[Source - Research - The Bilderberg 2025 Meeting]] - Core investigation source
+- [[Research - The Bilderberg 2025 Meeting]] - Core investigation source
 - [[Source - WEF Reimagining Digital ID]] - Policy framework coordination
 - [[Source - Palantir Pentagon Contracts]] - Surveillance implementation evidence
 

@@ -208,7 +208,7 @@ The event demonstrates the state's capability to instantly incapacitate nearly h
 - [ ] Long-term economic impact of mass financial exclusion
 
 ## Sources
-- [[Source - Research - CBDC Research_ Surveillance and Control]]
+- [[Research - CBDC Research_ Surveillance and Control]]
 - [[Entity - State Bank of Vietnam]] official directives and announcements
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]
 - International media coverage of mass de-banking event

@@ -201,7 +201,7 @@ Based on historical 12-24 month pattern from [[Event - Bilderberg 2025 Meeting S
 - **Identity Systems**: Universal digital ID and population tracking infrastructure
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Source - Bilderberg Historical Agendas 2015-2024]]
 - [[Source - Corporate Government Contracts Documentation]]

@@ -166,7 +166,7 @@ The North Atlantic Treaty Organization (NATO) represents the military implementa
 - [ ] How does NATO surveillance deployment eliminate democratic oversight?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Entity - Mark Rutte]]
 - [[Entity - Bilderberg Group]]

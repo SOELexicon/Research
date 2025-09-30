@@ -3,6 +3,7 @@ type: research
 title: "The Five-Phase Evolution Pattern of Digital ID Systems"
 summary: "Evidence-backed model describing how digital ID deployments progress from voluntary pilots to comprehensive control."
 status: draft
+investigation: "[[Investigation - Digital ID Global Implementation and Control Mechanisms]]"
 tags: [research, digital-id, evolution-pattern, crisis-exploitation]
 updated: 2025-09-28
 ---

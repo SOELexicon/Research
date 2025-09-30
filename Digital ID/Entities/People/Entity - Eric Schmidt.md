@@ -175,7 +175,7 @@ Former CEO of [[Entity - Google]] and current Pentagon AI advisor, Eric Schmidt 
 - [ ] How does Pentagon AI advisory role influence Google surveillance technology?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Crisis - China AI Competition]]
 - [[Source - Pentagon AI Advisory Board Documentation]]

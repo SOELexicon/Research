@@ -155,7 +155,7 @@ CEO and Co-founder of [[Entity - Google DeepMind]], Demis Hassabis is a leading 
 - [ ] How does AI behavioral prediction support population control mechanisms?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Entity - Google DeepMind]]
 - [[Source - DeepMind AI Surveillance Capabilities Analysis]]

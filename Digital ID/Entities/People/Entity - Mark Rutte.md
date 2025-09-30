@@ -114,7 +114,7 @@ Secretary General of [[Entity - NATO]], Mark Rutte represents the military and i
 - **Future**: NATO surveillance infrastructure supporting population control implementation
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Entity - NATO]]
 - [[Source - NATO Digital Surveillance Integration Analysis]]

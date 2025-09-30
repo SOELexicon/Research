@@ -111,7 +111,7 @@ Leading European digital rights network that coordinated resistance across 40+ m
 
 ### Connections of Interest
 - Leading [[Finding - Legal Resistance Success Patterns 2024-2025]]
-- Opposes [[EU Digital Identity Framework]] surveillance expansion
+- Opposes [[Entity - European Digital Identity Framework]] surveillance expansion
 - Coordinates with [[Entity - Mozilla Foundation]] on technical issues
 - Partners with [[Entity - Electronic Frontier Foundation]] globally
 

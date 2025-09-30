@@ -3,6 +3,7 @@ type: research
 title: "The Bilderberg 2025 Meeting"
 summary: "Analysis of the 2025 Bilderberg agenda linking digital infrastructure, population policy, and surveillance coordination."
 status: draft
+investigation: "[[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]"
 tags: [research, bilderberg, surveillance, digital-id, population-control]
 updated: 2025-09-28
 ---

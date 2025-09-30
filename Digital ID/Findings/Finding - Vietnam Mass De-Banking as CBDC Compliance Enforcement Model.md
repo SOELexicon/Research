@@ -15,22 +15,22 @@ Vietnam's 2025 mass de-banking event, freezing 86 million accounts (43% of natio
 ## Supporting Evidence
 
 ### Evidence Set 1: Scale of Financial Exclusion
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: Over 86 million bank accounts terminated or rendered inaccessible on September 1, 2025, representing approximately 43% of nation's 200 million accounts for failing facial biometric authentication requirements
 - **Reliability**: A - State Bank of Vietnam official implementation and documented account closures
 
 ### Evidence Set 2: Coercive Implementation Methodology
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: Hard deadline compliance with mandatory in-person bank branch visits for biometric scanning, no remote verification options, funds frozen in inaccessible accounts pending compliance
 - **Reliability**: A - Circular 17/2024/TT-NHNN regulatory framework and implementation documentation
 
 ### Evidence Set 3: Disproportionate Vulnerable Population Impact
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: Foreign residents required to fly back to Vietnam, rural and elderly users facing technology and mobility barriers, no exemptions for disabled individuals
 - **Reliability**: A - Documented cases of exclusion and international media coverage
 
 ### Evidence Set 4: CBDC Preparation Blueprint
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: State can link CBDC to digital ID and de-bank anyone refusing enrollment, framing action as necessary security measure, establishing precedent for universal adoption through financial incapacitation
 - **Reliability**: A - Analysis of enforcement model and stated government objectives
 

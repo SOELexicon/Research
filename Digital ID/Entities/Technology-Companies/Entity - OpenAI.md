@@ -164,7 +164,7 @@ OpenAI represents the coordination point between advanced AI development and gov
 - [ ] How do AI systems support behavioral analysis and demographic management?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Entity - Sam Altman]]
 - [[Source - OpenAI Government Coordination Analysis]]

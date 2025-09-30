@@ -173,7 +173,7 @@ The trials mark a critical milestone in CBDC development, moving beyond basic di
 - [ ] Public response and resistance to conditional payment testing
 
 ## Sources
-- [[Source - Research - CBDC Research_ Surveillance and Control]]
+- [[Research - CBDC Research_ Surveillance and Control]]
 - [[Entity - European Central Bank]] Digital Euro project documentation
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]
 - ECB Pioneer Partner Trials announcement and technical specifications

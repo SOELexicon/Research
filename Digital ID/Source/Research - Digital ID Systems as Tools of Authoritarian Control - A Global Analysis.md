@@ -9,6 +9,7 @@ url: internal-research
 access-date: 2025-09-28
 classification: U
 reliability: A
+investigation: "[[Investigation - Digital ID Systems as Tools of Authoritarian Control]]"
 tags:
   - source/report
   - digital-id

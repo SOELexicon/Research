@@ -217,7 +217,7 @@ Vietnam's central bank that implemented the world's largest mass financial exclu
 - [ ] Long-term impact on financially excluded populations
 
 ## Sources
-- [[Source - Research - CBDC Research_ Surveillance and Control]]
+- [[Research - CBDC Research_ Surveillance and Control]]
 - [[Event - Vietnam Biometric Banking Mandate Implementation]]
 - [[Finding - Vietnam Mass De-Banking as CBDC Compliance Enforcement Model]]
 - [[Investigation - CBDC Programmable Money and Financial Surveillance Infrastructure]]

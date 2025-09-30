@@ -179,7 +179,7 @@ Google DeepMind represents the cutting edge of artificial intelligence developme
 - [ ] How do government and military partnerships utilize DeepMind AI surveillance technology?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Entity - Demis Hassabis]]
 - [[Source - DeepMind AI Surveillance Capabilities Analysis]]

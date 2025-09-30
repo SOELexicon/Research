@@ -15,22 +15,22 @@ Central Bank Digital Currency technical architecture is deliberately designed as
 ## Supporting Evidence
 
 ### Evidence Set 1: Architectural Centralization by Design
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: Three CBDC architectural models (direct, indirect/intermediated, hybrid) all converge on centralized control with issuing central bank maintaining ultimate authority over core ledger, money issuance, and system rulebook
 - **Reliability**: A - Technical architecture documentation and central bank policy papers
 
 ### Evidence Set 2: Programmable Money Control Mechanisms
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: Smart contract integration enabling "programmable money" with predefined conditions including expiry dates, spending location restrictions, purchase category exclusions, and automated tax collection at transaction point
 - **Reliability**: A - European Central Bank "Pioneer" partner trials scheduled February 2025 testing conditional payments
 
 ### Evidence Set 3: Identity Nexus Eliminating Financial Anonymity
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: All proposed retail CBDC systems require mandatory KYC/AML identity verification linking every transaction to verified individual, fundamentally breaking from cash anonymity
 - **Reliability**: A - Central bank design specifications and regulatory compliance requirements
 
 ### Evidence Set 4: Real-Time Surveillance Engine
-- **Source**: [[Source - Research - CBDC Research_ Surveillance and Control]]
+- **Source**: [[Research - CBDC Research_ Surveillance and Control]]
 - **Data**: Digital nature creates permanent, immutable transaction trails including payer/payee identities, amounts, timestamps, geographic location, and device metadata enabling comprehensive behavioral analysis
 - **Reliability**: A - Technical specifications and blockchain intelligence capabilities documentation
 
@@ -186,6 +186,7 @@ graph TB
 ```
 
 ---
+*Classification*: [[Classification - Technical Architecture Intelligence]]
 *Analysis Date*: 2025-01-15
 *Analyst*: Research Agent
 *Verification Status*: #status/confirmed-multiple-sources

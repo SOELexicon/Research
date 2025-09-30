@@ -174,7 +174,7 @@ The coordination between China, Russia, Iran, and North Korea in developing and 
 - [ ] How do surveillance systems support elite coordination and population control?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Entity - Bilderberg Group]]
 - [[Crisis - China AI Competition]]

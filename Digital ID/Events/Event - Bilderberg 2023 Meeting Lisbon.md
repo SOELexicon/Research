@@ -140,7 +140,7 @@ The meeting prioritized artificial intelligence above all other agenda topics, c
 - **Corporate Advantage**: AI regulation protecting Bilderberg corporate participants from competition
 
 ## Verification Status
-- **Primary Source**: [[Source - Research - The Bilderberg 2025 Meeting]] historical analysis
+- **Primary Source**: [[Research - The Bilderberg 2025 Meeting]] historical analysis
 - **Corporate Confirmation**: [[Entity - Sam Altman]] attendance confirmed through multiple sources
 - **Implementation Confirmation**: 2024-2025 AI regulation implementation confirming coordination
 - **Pattern Recognition**: Regulatory capture coordination following established Bilderberg pattern

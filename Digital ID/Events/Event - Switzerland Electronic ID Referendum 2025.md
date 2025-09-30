@@ -20,7 +20,7 @@ tags: [event, switzerland, digital-identity, referendum, privacy, 2025, democrac
 
 ## Detailed Description
 
-Switzerland held its second referendum on electronic identity cards on September 28, 2025, with the proposal narrowly passing by 50.4% to 49.6%. This follows the rejection of a similar proposal in 2021 over data protection concerns and opposition to private sector involvement.
+Switzerland held its second referendum on [[Entity - Digital Identity Systems]] on September 28, 2025, with the proposal narrowly passing by 50.4% to 49.6%. This follows the rejection of a similar proposal in 2021 over data protection concerns and opposition to private sector involvement.
 
 The revised 2025 proposal addressed previous concerns by:
 - Making the system entirely optional

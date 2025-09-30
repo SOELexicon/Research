@@ -67,6 +67,28 @@ Global technology corporation that secured the largest digital infrastructure co
 - **Lock-in Mechanisms**: Proprietary data formats, extensive retraining requirements
 - **Migration Barriers**: Technical architectures designed to prevent switching
 
+## CBDC Infrastructure Partnerships
+
+### Central Bank of Brazil - Drex Project
+- **Platform**: Azure cloud infrastructure providing hosting for CBDC ledger
+- **Services**: AI services, security frameworks, advanced analytics
+- **Technology**: Confidential Consortium Framework (CCF) for data privacy protection
+- **Status**: Active participation in pilot and development phases
+- **Strategic Role**: Primary cloud infrastructure provider for Brazil's retail CBDC
+
+### Hong Kong Monetary Authority - Project Ensemble
+- **Collaboration**: Multi-CBDC platform development for cross-border payments
+- **Integration**: Azure cloud services with distributed ledger technology
+- **Focus**: Cross-border payment facilitation and interoperability
+- **Technical Components**: Cloud hosting, AI analytics, security protocols
+
+### Azure CBDC Solutions Architecture
+- **Core Platform**: Microsoft Azure cloud infrastructure for national payment systems
+- **Security Technologies**: Confidential computing, zero-knowledge proof implementations
+- **AI Integration**: Transaction monitoring, behavioral analysis, fraud detection
+- **Scalability**: Enterprise-grade infrastructure capable of handling national-scale transactions
+- **Surveillance Capabilities**: Real-time transaction monitoring and analysis systems
+
 ## Relationships & Partnerships
 ### Government Clients
 - U.S. Federal Government (OneGov contract)

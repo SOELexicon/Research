@@ -154,7 +154,7 @@ The intensifying AI competition between China and Western nations serves as the 
 - [ ] How do surveillance systems support elite coordination and population control?
 
 ## Sources
-- [[Source - Research - The Bilderberg 2025 Meeting]]
+- [[Research - The Bilderberg 2025 Meeting]]
 - [[Investigation - Bilderberg Coordination of Global Digital Control Infrastructure]]
 - [[Entity - Eric Schmidt]]
 - [[Entity - Bilderberg Group]]

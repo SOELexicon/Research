@@ -152,7 +152,7 @@ This meeting established the framework for military deployment of AI surveillanc
 - **International Coordination**: Allied military AI surveillance coordination implementation
 
 ## Verification Status
-- **Primary Source**: [[Source - Research - The Bilderberg 2025 Meeting]] historical pattern analysis
+- **Primary Source**: [[Research - The Bilderberg 2025 Meeting]] historical pattern analysis
 - **Implementation Confirmation**: 2024-2025 military AI surveillance deployment confirming coordination
 - **Pattern Recognition**: AI militarization following established Bilderberg discussion-to-implementation timeline
 - **Intelligence Assessment**: Military AI surveillance deployment validating coordination accuracy

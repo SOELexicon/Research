@@ -20,7 +20,7 @@ Biometric authentication systems consistently fail for 12-49% of users, with eld
 - **Reliability**: High - Government's own admission
 
 ### Evidence Set 2: Manual Laborer Exclusion
-- **Source**: [[2024-12-28 Source - Digital ID Systems Global Analysis]]
+- **Source**: [[Source - Digital ID Systems Global Analysis]]
 - **Data**: Construction workers, farm laborers with worn fingerprints cannot authenticate
 - **Reliability**: High - Multiple documented cases
 
