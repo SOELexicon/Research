@@ -133,38 +133,32 @@ graph TB
         COORD[Corporate-Government Coordination]
         IMPL[Policy Implementation]
     end
-
     subgraph "Technology Architects"
-        MS[[[Entity - Microsoft Corporation]]]
-        PAL[[[Entity - Palantir Technologies]]]
-        GOOG[[[Entity - Google]]]
+        MS[Entity - Microsoft Corporation]
+        PAL[Entity - Palantir Technologies]
+        GOOG[Entity - Google]
     end
-
     subgraph "Government Implementation"
-        NATO[[[Entity - NATO]]]
-        UK[[[Entity - United Kingdom]]]
+        NATO[Entity - NATO]
+        UK[Entity - United Kingdom]
         US[Pentagon]
     end
-
     subgraph "Policy Outcomes"
         DID[Digital ID Mandates]
         CBDC[Programmable CBDCs]
         AI[AI Surveillance]
         POP[Population Control]
     end
-
     BG -->|Annual Meetings| DISC
     DISC -->|12-24 months| IMPL
     MS -->|Participates| BG
     PAL -->|Dual Representation| BG
     NATO -->|Implements| AI
     UK -->|Deploys| DID
-
     IMPL -->|Produces| DID
     IMPL -->|Produces| CBDC
     IMPL -->|Produces| AI
     IMPL -->|Produces| POP
-
     style BG fill:#ff6b6b
     style DISC fill:#ffa500
     style IMPL fill:#ff0000

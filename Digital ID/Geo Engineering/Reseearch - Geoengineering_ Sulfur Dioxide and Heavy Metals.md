@@ -1,5 +1,15 @@
 
 
+---
+type: source
+source-type: research
+title: "Stratospheric Aerosol Injection: A Comprehensive Analysis of Proposed Climate Intervention Technologies, Risks, and Governance Challenges"
+classification: U
+reliability: A
+investigation: [[Investigation - Stratospheric Aerosol Injection Global Governance and Risk Assessment]]
+tags: [source, research, geoengineering, stratospheric-aerosol-injection, climate-intervention, governance-challenges, environmental-risks]
+---
+
 # **Stratospheric Aerosol Injection: A Comprehensive Analysis of Proposed Climate Intervention Technologies, Risks, and Governance Challenges**
 
 ### **Executive Summary**

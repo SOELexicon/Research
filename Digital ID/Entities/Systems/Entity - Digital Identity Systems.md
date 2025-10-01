@@ -1,10 +1,23 @@
 ---
 type: entity
 entity-type: system
-aliases: ["Digital ID", "Digital Identity", "Digital Identity Systems", "eID", "Electronic Identity"]
+aliases:
+  - Digital ID
+  - Digital Identity
+  - Digital Identity Systems
+  - eID
+  - Electronic Identity
 status: active
 scope: global
-tags: [entity, entity/system, digital-identity, global-infrastructure, surveillance, biometric, identification, population-control]
+tags:
+  - entity
+  - entity/system
+  - digital-identity
+  - global-infrastructure
+  - surveillance
+  - biometric
+  - identification
+  - population-control
 ---
 
 # Entity - Digital Identity Systems
@@ -231,3 +244,5 @@ Successful implementations in democratic countries provide legitimacy and techni
 *Last Updated*: 2025-09-29
 *Compilation*: Research Agent
 *Review Status*: Active monitoring required for global implementation patterns
+
+/

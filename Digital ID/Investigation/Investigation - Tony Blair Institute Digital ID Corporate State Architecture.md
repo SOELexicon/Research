@@ -41,8 +41,18 @@ The investigation establishes that TBI functions as a hybrid entity—combining 
 
 ## Timeline of Corporate State Architecture Development
 
+### Blair Legacy Foundation (1997-2007)
+- **1997-2007**: [[Entity - Tony Blair]] serves as UK Prime Minister with domestic achievements and Iraq War catastrophe
+- **2003**: [[Event - 2003-03-20 Iraq War Launch Based on False WMD Intelligence]] - Defining legacy destruction enabling post-premiership monetization
+- **2007**: [[Crisis - Iraq War Democratic Legitimacy and Intervention Doctrine Collapse]] - Democratic credibility permanently damaged
+
+### Commercial Empire Phase (2007-2016)
+- **2007-2015**: Middle East Quartet peace envoy role providing diplomatic cover for commercial activities
+- **2008**: JPMorgan Chase senior advisor appointment (£500,000+ annually) beginning systematic office monetization
+- **2009-2016**: [[Event - 2009-2016 Tony Blair Associates Commercial Empire Authoritarian Clients]] - £20 million annual income peak through dictator advisory
+
 ### Foundation and Scaling Phase (2016-2020)
-- **2016**: [[Event - Tony Blair Institute for Global Change Establishment]] - Post-premiership foundation created
+- **2016**: [[Event - Tony Blair Institute for Global Change Establishment]] - Post-premiership foundation created as evolution from commercial consultancy
 - **2016-2020**: [[Event - TBI Initial Operations 200 Staff]] - Modest think tank operations with limited global reach
 
 ### Oracle Investment and Transformation (2021-2023)
@@ -76,6 +86,9 @@ The investigation establishes that TBI functions as a hybrid entity—combining 
 
 ### Controversial Client Portfolio and Policy Compromise
 - [[Finding - TBI Authoritarian Regime Consultation Reputational Risk Pattern]] - Systematic engagement with Saudi Arabia and other authoritarian governments undermining stated commitment to "open, inclusive societies"
+
+### Post-Premiership Monetization Template
+- [[Finding - Blair Post-Premiership Office Monetization Democratic Accountability Model]] - Systematic conversion of democratic mandate into personal commercial wealth establishing template for former leaders to exploit political access for massive profit while evading accountability mechanisms, enabling sophisticated political corruption disguised as legitimate consultancy
 
 ## Critical Statistics
 
@@ -182,6 +195,7 @@ The investigation establishes that TBI functions as a hybrid entity—combining 
 
 ### Primary Research Documentation
 - [[Research - Tony Blair Institute's Work]] - Comprehensive organizational analysis
+- [[Research - Tony Blair's Global Impact and Legacy]] - Complete biographical analysis documenting Iraq War legacy and post-premiership monetization
 - TBI Financial Statements 2023 - Official financial disclosure
 - TBI Annual Reports and Policy Publications - Organization's own advocacy materials
 
@@ -201,6 +215,7 @@ The investigation establishes that TBI functions as a hybrid entity—combining 
 - Think tank comparison studies - Organizational model analysis
 
 ### Crisis Documentation
+- [[Crisis - Iraq War Democratic Legitimacy and Intervention Doctrine Collapse]] - Foundational democratic credibility destruction enabling post-premiership monetization
 - [[Crisis - COVID-19 Pandemic]] - Crisis exploitation enabling digital infrastructure advancement
 - [[Crisis - Democratic Governance Pressure]] - Legitimacy crises enabling technocratic solutions
 - [[Crisis - Climate Emergency]] - Environmental concerns manipulated for corporate benefit

@@ -1,5 +1,15 @@
 
 
+---
+type: source
+source-type: research
+title: "Sir Tony Blair: A Study in Transformation, Intervention, and Legacy"
+classification: U
+reliability: A
+investigation: [[Investigation - Tony Blair Institute Digital ID Corporate State Architecture]]
+tags: [source, research, tony-blair, political-biography, post-premiership-monetization, corporate-consultancy, iraq-war-legacy]
+---
+
 # **Sir Tony Blair: A Study in Transformation, Intervention, and Legacy**
 
 ## **Executive Summary**
