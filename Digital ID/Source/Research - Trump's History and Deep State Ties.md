@@ -1,4 +1,3 @@
-
 ---
 type: source
 source-type: research
